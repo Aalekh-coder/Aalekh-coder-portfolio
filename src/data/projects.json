@@ -1,0 +1,66 @@
+[
+  {
+    "id": "proj-1",
+    "title": "Aetheria Landscapes",
+    "description": "An award-winning ultra-wide landscape documentation series tracking shadows and alpine architecture across the Swiss Alps in high-contrast monochrome.",
+    "category": "Landscape",
+    "year": "2026",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
+    "tags": ["Medium Format", "Mono", "Swiss Alps"],
+    "metrics": {
+      "focalLength": "24mm",
+      "aperture": "f/8.0",
+      "shutter": "1/250s",
+      "iso": "64"
+    },
+    "liveUrl": "#"
+  },
+  {
+    "id": "proj-2",
+    "title": "Minimalist Street Shadows",
+    "description": "Unveiling geometries in daily city environments. A visual story about harsh sunlight, high contrasts, and lone subjects traversing urban landscapes.",
+    "category": "Street",
+    "year": "2025",
+    "image": "https://images.unsplash.com/photo-1449034446853-66c86144b0ad?auto=format&fit=crop&w=800&q=80",
+    "tags": ["Street", "Contrast", "35mm Prime"],
+    "metrics": {
+      "focalLength": "35mm",
+      "aperture": "f/2.0",
+      "shutter": "1/1000s",
+      "iso": "100"
+    },
+    "liveUrl": "#"
+  },
+  {
+    "id": "proj-3",
+    "title": "Golden Hour Portraits",
+    "description": "Exploring soft natural flares, ambient backlighting, and the delicate warmth of sunset hour portraits taken with vintage prime lenses.",
+    "category": "Portrait",
+    "year": "2026",
+    "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+    "tags": ["Vintage Lens", "Flares", "Natural Light"],
+    "metrics": {
+      "focalLength": "85mm",
+      "aperture": "f/1.4",
+      "shutter": "1/400s",
+      "iso": "200"
+    },
+    "liveUrl": "#"
+  },
+  {
+    "id": "proj-4",
+    "title": "The Neon Nocturnes",
+    "description": "A cinematic nocturnal study capturing urban rain reflections, cybernetic teal and violet color palettes, and low-light environmental details.",
+    "category": "Night",
+    "year": "2025",
+    "image": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=800&q=80",
+    "tags": ["Cinematic", "Low Light", "Nightlife"],
+    "metrics": {
+      "focalLength": "50mm",
+      "aperture": "f/1.2",
+      "shutter": "1/125s",
+      "iso": "800"
+    },
+    "liveUrl": "#"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "Vex Hero Section",
+  "description": "Exactly customized raw video background hero section with liquid glass navigation, staggering character entrance animation, and immersive minimalist typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
